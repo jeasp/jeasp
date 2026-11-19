@@ -1,12 +1,9 @@
-# 박지수 | 임베디드 · 머신비전 · 제어 SW
+### 안녕하세요, 박지수입니다
 
-머신비전을 활용한 AI 기반 첨단제조 분야 제어 SW 개발 과정 수료 예정입니다. (2027.01)
+임베디드, 머신비전, 제어 SW 쪽을 공부하고 있습니다.
+머신비전을 활용한 AI 기반 첨단제조 분야 제어 SW 개발 과정을 2027년 1월에 수료할 예정입니다.
 
-### 먼저 보시면 좋은 프로젝트
+- [MobleKurly](https://github.com/jeasp/MobleKurly-Inventory-System): 아두이노로 컨베이어를 돌리고, 비상정지 버튼을 풀어도 MFC 실행 명령이 오기 전까지는 멈춰 있도록 만들었습니다.
+- [VisionTrace](https://github.com/jeasp/VisionTrace-Change-Detection): OpenCV로 작업대 위 물체가 추가·이동·사라졌는지 감지합니다. 손이 움직이는 동안은 기록하지 않습니다.
 
-- [MobleKurly · 컨베이어 제어와 CCTV](https://github.com/jeasp/MobleKurly-Inventory-System)  
-  비상정지 버튼을 풀어도 컨베이어가 멈춰 있도록 Arduino 명령 처리를 구현하고, 실물에서 재가동 조건을 확인했습니다.
-- [VisionTrace · 작업대 변화 감지](https://github.com/jeasp/VisionTrace-Change-Detection)  
-  직전 영상으로 움직임을 판단하고, 기준 영상과 비교해 작업이 끝난 뒤의 변화를 이벤트로 만드는 코드를 작성했습니다.
-
-팀 프로젝트 저장소에는 제가 맡은 코드와, 공유 파일에서 발췌한 제 구현을 담았습니다.
+팀 프로젝트 저장소에는 제가 맡은 코드만 올렸습니다.
